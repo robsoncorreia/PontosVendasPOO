@@ -7,3 +7,9 @@ F:\PontosVendas\PontosVendas\obj\Debug\PontosVendas.pdb
 D:\PontosVendas\PontosVendas\bin\Debug\PontosVendas.exe.config
 D:\PontosVendas\PontosVendas\obj\Debug\PontosVendas.exe
 D:\PontosVendas\PontosVendas\obj\Debug\PontosVendas.pdb
+C:\Users\robso\Source\Repos\PontosVendasPOO\PontosVendas\PontosVendas\bin\Debug\PontosVendas.exe.config
+C:\Users\robso\Source\Repos\PontosVendasPOO\PontosVendas\PontosVendas\obj\Debug\PontosVendas.exe
+C:\Users\robso\Source\Repos\PontosVendasPOO\PontosVendas\PontosVendas\obj\Debug\PontosVendas.pdb
+C:\Users\robso\Source\Repos\PontosVendasPOO\PontosVendas\PontosVendas\bin\Debug\PontosVendas.exe
+C:\Users\robso\Source\Repos\PontosVendasPOO\PontosVendas\PontosVendas\bin\Debug\PontosVendas.pdb
+C:\Users\robso\Source\Repos\PontosVendasPOO\PontosVendas\PontosVendas\obj\Debug\PontosVendas.csprojResolveAssemblyReference.cache
