@@ -10,8 +10,8 @@ namespace PontosVendas
     {
         public short numProdutos;
         public float valorProdutos;
-        public float valorMaisCaro = 0;
-        public float valorMaisBarato = 0;
+        public float valorMaisCaro;
+        public float valorMaisBarato;
 
         public void ComprarProduto(Produtos produto)
         {

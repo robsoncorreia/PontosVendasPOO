@@ -46,8 +46,9 @@ namespace PontosVendas
 			pvd2.ComprarProduto(produto4);
 			pvd2.ComprarProduto(produto3);
 			pvd2.ComprarProduto(produto5);
-			pvd2.ComprarProduto(produto5);
 			pvd2.FinalizarCompra();
+
+            Console.ReadKey();
 		}
 	}
 }
