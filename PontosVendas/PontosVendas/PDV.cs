@@ -27,6 +27,7 @@ namespace PontosVendas
             {
                 valorMaisBarato = produto.preco;
             }
+
             valorProdutos += produto.preco;
         }
 
