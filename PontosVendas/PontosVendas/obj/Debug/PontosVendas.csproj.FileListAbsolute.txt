@@ -1,0 +1,9 @@
+F:\PontosVendas\PontosVendas\bin\Debug\PontosVendas.exe.config
+F:\PontosVendas\PontosVendas\bin\Debug\PontosVendas.exe
+F:\PontosVendas\PontosVendas\bin\Debug\PontosVendas.pdb
+F:\PontosVendas\PontosVendas\obj\Debug\PontosVendas.csprojResolveAssemblyReference.cache
+F:\PontosVendas\PontosVendas\obj\Debug\PontosVendas.exe
+F:\PontosVendas\PontosVendas\obj\Debug\PontosVendas.pdb
+D:\PontosVendas\PontosVendas\bin\Debug\PontosVendas.exe.config
+D:\PontosVendas\PontosVendas\obj\Debug\PontosVendas.exe
+D:\PontosVendas\PontosVendas\obj\Debug\PontosVendas.pdb
