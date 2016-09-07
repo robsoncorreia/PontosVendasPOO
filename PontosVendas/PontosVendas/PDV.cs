@@ -23,7 +23,7 @@ namespace PontosVendas
             {
                 valorMaisCaro = produto.preco;
             }
-            if (produto.preco <= valorMaisBarato)
+            if (produto.preco < valorMaisBarato || valorMaisBarato == 0)
             {
                 valorMaisBarato = produto.preco;
             }
@@ -44,7 +44,7 @@ namespace PontosVendas
             numProdutos = 0;
             valorProdutos = 0;
             valorMaisCaro = 0;
-            valorMaisBarato = 999;
+            valorMaisBarato = 0;
         }
 
         public void FinalizarCompra()
