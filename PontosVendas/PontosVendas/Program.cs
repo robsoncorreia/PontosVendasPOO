@@ -41,6 +41,8 @@ namespace PontosVendas
 			pvd.ComprarProduto(produto5);
 			pvd.FinalizarCompra();
 
+            Console.ReadKey();
+
 			pvd2.IniciarCompra();
 			pvd2.ComprarProduto(produto5);
 			pvd2.ComprarProduto(produto4);

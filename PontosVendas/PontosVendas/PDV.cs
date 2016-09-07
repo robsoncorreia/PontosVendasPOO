@@ -30,11 +30,10 @@ namespace PontosVendas
 
             valorProdutos += produto.preco;
         }
-
-        DateTime tempo = DateTime.Now;
-
+        
         public void IniciarCompra()
         {
+            DateTime tempo = DateTime.Now;
             Console.WriteLine("Iniciando o registro de compra no PDV em {0}", tempo);
             ZerarValores();
         }
@@ -49,6 +48,7 @@ namespace PontosVendas
 
         public void FinalizarCompra()
         {
+            DateTime tempo = DateTime.Now;
             Console.WriteLine("Compra finalizar em: {0}\nQuantidade de itens comprados: {1}\nValor pago: {2:C}\nPreço do produto mais caro: {3:C} \nPreço do produto mais barato: {4:C}\n", tempo, numProdutos, valorProdutos, valorMaisCaro, valorMaisBarato);
         }
     }
